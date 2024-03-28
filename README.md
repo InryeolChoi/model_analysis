@@ -3,7 +3,7 @@ handle a real-world data with numerous methods, from linear regression to Neural
 
 ## stat_model_1
 * 수강자: 2018111373, 최인렬
-* 2024 1학기가 끝나기 전까지는 파일 건드리지 말아주세요
+* 2024/03 ~ 2024/06
 * 전통적 통계기법을 파이썬에 적용하는 것이 목표
 * 시각화의 경우, R도 사용
 * 중간: 30 / 기말: 40 / 개인과제: 20
