@@ -12,9 +12,8 @@ handle a real-world data with numerous methods, from linear regression to Neural
 
 ### 다루는 이론
 * 전처리 & 시각화
+* 교차분석 & 상관분석
 * 회귀분석
-* 다변량분석
-* 비모수통계
 
 ### 진행과정
 1. 파이썬 온보딩
